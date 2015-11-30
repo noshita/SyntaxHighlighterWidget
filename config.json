@@ -1,0 +1,5 @@
+{
+	"SyntaxHighlighterPath":"./syntaxhighlighter",
+	"AdditionalBrushesPath":"./AdditionalBrushes",
+	"AdditionalLanguages":{"R":"shBrushR.js"}
+}
